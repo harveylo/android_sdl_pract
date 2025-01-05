@@ -1,1 +1,0 @@
-/home/harveylwo/android_sdl_pract/app/build/intermediates/cxx/RelWithDebInfo/1t2v3q20/obj/arm64-v8a

@@ -1,4 +1,0 @@
-/home/harveylwo/android_sdl_pract/app/.cxx/Debug/o3s3c35n/arm64-v8a/SDL/CMakeFiles/SDL3-shared.dir/cmake_pch.h
-/home/harveylwo/android_sdl_pract/app/.cxx/Debug/o3s3c35n/arm64-v8a/SDL/CMakeFiles/SDL3-shared.dir/cmake_pch.hxx
-/home/harveylwo/android_sdl_pract/app/.cxx/Debug/o3s3c35n/arm64-v8a/SDL/CMakeFiles/uninstall
-/home/harveylwo/android_sdl_pract/app/.cxx/Debug/o3s3c35n/arm64-v8a/SDL/CMakeFiles/uninstall.rule

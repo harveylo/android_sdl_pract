@@ -2,3 +2,5 @@ build/
 .cache/
 .gradle/
 .vscode/
+.cxx/
+app/.cxx/
